@@ -1,0 +1,21 @@
+body{
+  background-color: cornsilk;
+}
+p{
+  color: green;
+  font-family: cursive;
+}
+h1{
+  color: blue;
+  font-family: helvetica;
+}
+button{
+  color: white;
+  background-color: blue;
+}
+em{
+  color: blue;
+}
+h3{
+  color: blue;
+}
